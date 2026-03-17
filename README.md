@@ -1,4 +1,20 @@
-PI_Project/
+<h1>The Pi-Drone Project</h1>
+<p>For fun I've created this project</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# PI_Project/
 ├─ .venv/
 ├─ README.md
 ├─ requirements.txt
