@@ -10,23 +10,19 @@
 
 <h3>If I were you:</h3>
 <p>
-Navio2
-
 F450 frame
 
-2212 920KV motors
+XT60 PDB (≥60A)
 
-30A BLHeli ESCs
+4× 2212 920KV motors
 
-1045 props
+4× 30A BLHeli ESCs
 
-3S 2200mAh battery
+1045 prop set (CW + CCW) ×2–3
+
+3S 2200–3000mAh LiPo
+
+LiPo charger
 
 FlySky controller
-</p>
-<h3> Order:</h3>
-<p>
-Drone parts → FPV24
-
-Pi + camera → Digitec
 </p>
